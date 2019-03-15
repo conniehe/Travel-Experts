@@ -7,7 +7,7 @@
   <meta name="description" content="Start your development with a Design System for Bootstrap 4.">
   <meta name="author" content="Creative Tim">
   <title>Argon Design System - Free Design System for Bootstrap 4</title>
-  <!-- Extra details for Live View on GitHub Pages -->
+  <!-- Extra details for Live Views and samples on GitHub Pages -->
   <!-- Canonical SEO -->
   <link rel="canonical" href="https://www.creative-tim.com/product/argon-design-system" />
   <!--  Social tags      -->
@@ -1097,28 +1097,28 @@
         </h3>
         <div class="alert alert-success alert-dismissible fade show" role="alert">
           <span class="alert-inner--icon"><i class="ni ni-like-2"></i></span>
-          <span class="alert-inner--text"><strong>Success!</strong> This is a success alert—check it out!</span>
+          <span class="alert-inner--text"><strong>Success!</strong> This is a success alertÂ—check it out!</span>
           <button type="button" class="close" data-dismiss="alert" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="alert alert-info alert-dismissible fade show" role="alert">
           <span class="alert-inner--icon"><i class="ni ni-bell-55"></i></span>
-          <span class="alert-inner--text"><strong>Info!</strong> This is an info alert—check it out!</span>
+          <span class="alert-inner--text"><strong>Info!</strong> This is an info alertÂ—check it out!</span>
           <button type="button" class="close" data-dismiss="alert" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="alert alert-warning alert-dismissible fade show" role="alert">
           <span class="alert-inner--icon"><i class="ni ni-bell-55"></i></span>
-          <span class="alert-inner--text"><strong>Warning!</strong> This is a warning alert—check it out!</span>
+          <span class="alert-inner--text"><strong>Warning!</strong> This is a warning alertÂ—check it out!</span>
           <button type="button" class="close" data-dismiss="alert" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="alert alert-danger alert-dismissible fade show" role="alert">
           <span class="alert-inner--icon"><i class="ni ni-support-16"></i></span>
-          <span class="alert-inner--text"><strong>Danger!</strong> This is an error alert—check it out!</span>
+          <span class="alert-inner--text"><strong>Danger!</strong> This is an error alertÂ—check it out!</span>
           <button type="button" class="close" data-dismiss="alert" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
@@ -1246,7 +1246,7 @@
             <small class="text-uppercase text-muted font-weight-bold">Paragraph</small>
           </div>
           <div class="col-sm-9">
-            <p>I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus. I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at.</p>
+            <p>I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus. I think thatÂ’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at.</p>
           </div>
         </div>
         <div class="row py-3 align-items-center">
@@ -1254,7 +1254,7 @@
             <small class="text-uppercase text-muted font-weight-bold">Lead text</small>
           </div>
           <div class="col-sm-9">
-            <p class="lead">I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus. I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at.</p>
+            <p class="lead">I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus. I think thatÂ’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at.</p>
           </div>
         </div>
         <div class="row py-3 align-items-center">
@@ -1354,7 +1354,7 @@
                   <div class="modal-header">
                     <h6 class="modal-title" id="modal-title-default">Type your modal title</h6>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                      <span aria-hidden="true">×</span>
+                      <span aria-hidden="true">Ã—</span>
                     </button>
                   </div>
                   <div class="modal-body">
@@ -1377,7 +1377,7 @@
                   <div class="modal-header">
                     <h6 class="modal-title" id="modal-title-notification">Your attention is required</h6>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                      <span aria-hidden="true">×</span>
+                      <span aria-hidden="true">Ã—</span>
                     </button>
                   </div>
                   <div class="modal-body">
